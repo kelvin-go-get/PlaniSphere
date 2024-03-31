@@ -152,7 +152,7 @@ const LeadsPage = () => {
                         New Pipeline
                       </h1>
                     </div>
-                    <p className="mt-4">
+                    <p className="mt-4 text-gray-500">
                       Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                       Nulla varius tortor eget ex ullamcorper, ac faucibus velit
                       vulputate. Praesent sed libero ac tortor imperdiet
@@ -167,7 +167,7 @@ const LeadsPage = () => {
                       />
                       <h1 className="text-[18px] font-semibold">New Lead</h1>
                     </div>
-                    <p className="mt-4">
+                    <p className="mt-4 text-gray-500">
                       Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                       Nulla varius tortor eget ex ullamcorper, ac faucibus velit
                       vulputate. Praesent sed libero ac tortor imperdiet
@@ -184,7 +184,7 @@ const LeadsPage = () => {
                         First Contact
                       </h1>
                     </div>
-                    <p className="mt-4">
+                    <p className="mt-4 text-gray-500">
                       Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                       Nulla varius tortor eget ex ullamcorper, ac faucibus velit
                       vulputate. Praesent sed libero ac tortor imperdiet
@@ -201,7 +201,7 @@ const LeadsPage = () => {
                         Lead Qualified
                       </h1>
                     </div>
-                    <p className="mt-4">
+                    <p className="mt-4 text-gray-500">
                       Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                       Nulla varius tortor eget ex ullamcorper, ac faucibus velit
                       vulputate. Praesent sed libero ac tortor imperdiet
@@ -218,7 +218,7 @@ const LeadsPage = () => {
                         Appointments
                       </h1>
                     </div>
-                    <p className="mt-4">
+                    <p className="mt-4 text-gray-500">
                       Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                       Nulla varius tortor eget ex ullamcorper, ac faucibus velit
                       vulputate. Praesent sed libero ac tortor imperdiet
