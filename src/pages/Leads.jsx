@@ -15,6 +15,7 @@ import {
   faFunnelDollar,
 } from "@fortawesome/free-solid-svg-icons";
 import Layout from "../Layout";
+import Profile from "../assets/profile.png";
 
 const LeadsPage = () => {
   return (
@@ -23,6 +24,14 @@ const LeadsPage = () => {
         <div className="flex justify-between rounded-lg mb-[20px] items-center shadow-xl p-5 mx-auto text-center">
           <div className="justify-center ">
             <h1 className="text-4xl font-bold  text-center mb-8">Leads</h1>
+          </div>
+          <div className="flex flex-col items-center">
+            <img
+              src={Profile}
+              alt="Profile"
+              className="w-12 h-12 rounded-full mr-4"
+            />
+            <h2 className="text-lg font-bold ">John Doe</h2>
           </div>
         </div>
         <div className="flex h-screen bg-gray-100">
